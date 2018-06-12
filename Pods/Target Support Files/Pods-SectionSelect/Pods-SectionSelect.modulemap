@@ -1,0 +1,6 @@
+framework module Pods_SectionSelect {
+  umbrella header "Pods-SectionSelect-umbrella.h"
+
+  export *
+  module * { export * }
+}
